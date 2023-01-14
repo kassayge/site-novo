@@ -1,6 +1,6 @@
 
 .index{
-    background-image: url(1.png) ;
+    background-image: url(../_img/1.png) ;
     background-repeat: no-repeat;
     background-position: center/80%; 
     background-size: cover; 
@@ -8,7 +8,7 @@
 }
 
 .testes{
-    background-image: url(2.png) ;
+    background-image: url(../_img/2.png) ;
     /* background-repeat: no-repeat; */
     /* background-position: center/80%;  */
     /* background-size: cover;  */
@@ -16,7 +16,8 @@
 }
 
 .artes{
-    background-image: url(3.png);
+    background-image: url(../_img/3.png);
+    margin: 0px;
 }
 
 .navbar{
@@ -120,11 +121,11 @@
 }
 
 .coisitas{
-    background-image: url(4.png);
+    background-image: url(../_img/4.png);
      background-repeat: no-repeat; 
      background-position: center/80%;
      background-size: 100%;
-    
+     margin: 0px;
 }
 
 .coisita::before{
@@ -153,7 +154,8 @@
 }
 
 .sobre{
-    background-image: url(4.5.png);
+    background-image: url(../_img/4.5.png);
+    margin: 0px;
 }
 
 .contato{
